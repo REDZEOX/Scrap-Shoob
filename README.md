@@ -29,4 +29,14 @@
 > This is an open source scrapper created by [`@Issa`](https://github.com/Issa2001). Therefore we're not affiliated anyhowly with [`Shoob`](https://shoob.gg) or with their trademark.
 
 ## 📄 License
-- Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE) for more information.
+> Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE) for more information.
+
+## ✨ Contributors
+
+<a href="https://github.com/Issa2001/Scrap-Shoob/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Issa2001/Scrap-Shoob" />
+</a>
+
+## ⭐ Help
+
+> Please give this repo a ⭐ if it helped you.
